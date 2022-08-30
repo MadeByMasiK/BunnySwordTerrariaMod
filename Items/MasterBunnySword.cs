@@ -6,7 +6,7 @@ using Terraria.Graphics.Shaders;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace BunnySword.Items
+namespace BunnySwordTerrariaMod.Items
 {
 	public class MasterBunnySword : ModItem
 	{

@@ -3,7 +3,7 @@ using Microsoft.Xna.Framework;
 using Terraria;
 using Terraria.ID;
 
-namespace BunnySword
+namespace BunnySwordTerrariaMod
 {
 	public class BunnySword : Mod
 	{

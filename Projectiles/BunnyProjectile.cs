@@ -7,7 +7,7 @@ using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace BunnySword.Projectiles
+namespace BunnySwordTerrariaMod.Projectiles
 {
 
     public class BunnyProjectile : ModProjectile
